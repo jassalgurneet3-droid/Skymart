@@ -7,7 +7,7 @@ import {
   LogIn,
 } from "lucide-react";
 
-import Signup from "./signup";
+import Signup from "./Signup";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 
